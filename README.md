@@ -1,1 +1,1 @@
-University Final Year Project - Java Swing project allowing the user to connect to an Interaxon Muse headset and record and anaylse recordings of their focus levelswhile watching a video or piece of media.
+University Final Year Project - Java Swing project allowing the user to connect to an Interaxon Muse headset and record and anaylse recordings of their focus levels while watching a video or piece of media.
